@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Escalapp</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_folgas">Folgas</string>
+    <string name="menu_tarefas">Tarefas</string>
+    <string name="menu_mais">Mais</string>
+
+</resources>
