@@ -1,2 +1,2 @@
 # Escalapp
- Projeto Android para Faculdade Eniac
+ Segunda Versão do Projeto Android para Faculdade Eniac
