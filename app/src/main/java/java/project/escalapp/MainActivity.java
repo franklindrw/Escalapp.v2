@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //iniciando o menu para trocar entre as telas
-        BottomNavigationView bottomNav = findViewById(R.id.menus_nav);
+        BottomNavigationView bottomNav = findViewById(R.id.bottomNavigationView);
         bottomNav.setOnNavigationItemSelectedListener(navListener);
 
         getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                             break;
 
                         case R.id.maisFragment:
-                            selectedFragment = new atividadesFragment();
+                            selectedFragment = new maisFragment();
                             break;
                     }
 
