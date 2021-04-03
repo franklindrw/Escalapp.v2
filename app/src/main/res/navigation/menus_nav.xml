@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/menus_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="java.project.escalapp.homeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/folgasFragment"
+        android:name="java.project.escalapp.folgasFragment"
+        android:label="fragment_folgas"
+        tools:layout="@layout/fragment_folgas" />
+    <fragment
+        android:id="@+id/atividadesFragment"
+        android:name="java.project.escalapp.atividadesFragment"
+        android:label="fragment_atividades"
+        tools:layout="@layout/fragment_atividades" />
+    <fragment
+        android:id="@+id/maisFragment"
+        android:name="java.project.escalapp.maisFragment"
+        android:label="fragment_mais"
+        tools:layout="@layout/fragment_mais" />
+</navigation>
