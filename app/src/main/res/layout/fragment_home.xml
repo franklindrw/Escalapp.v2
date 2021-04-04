@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:layout_rowWeight="0.5"
             android:layout_columnWeight="1"
-            android:layout_margin="15dp"
+            android:layout_margin="20dp"
             app:cardElevation="8dp"
             app:cardCornerRadius="15dp">
 
@@ -68,8 +68,8 @@
                 <ImageView
                     android:layout_width="30dp"
                     android:layout_height="30dp"
-                    android:layout_marginLeft="52dp"
-                    android:layout_marginTop="15dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="17dp"
                     android:src="@drawable/wing_icon" />
 
 
@@ -85,7 +85,7 @@
             android:layout_height="wrap_content"
             android:layout_rowWeight="0.45"
             android:layout_columnWeight="1"
-            android:layout_margin="15dp"
+            android:layout_margin="20dp"
             app:cardElevation="8dp"
             app:cardCornerRadius="15dp">
 
@@ -129,7 +129,7 @@
                 <ImageView
                     android:layout_width="30dp"
                     android:layout_height="30dp"
-                    android:layout_marginLeft="60dp"
+                    android:layout_marginLeft="20dp"
                     android:layout_marginTop="20dp"
                     android:src="@drawable/wing_icon" />
 
@@ -146,7 +146,7 @@
             android:layout_height="wrap_content"
             android:layout_rowWeight="0.45"
             android:layout_columnWeight="1"
-            android:layout_margin="15dp"
+            android:layout_margin="20dp"
             app:cardElevation="8dp"
             app:cardCornerRadius="15dp">
 
@@ -189,7 +189,7 @@
                 <ImageView
                     android:layout_width="30dp"
                     android:layout_height="30dp"
-                    android:layout_marginLeft="60dp"
+                    android:layout_marginLeft="20dp"
                     android:layout_marginTop="20dp"
                     android:src="@drawable/wing_icon" />
 
