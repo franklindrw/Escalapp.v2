@@ -39,8 +39,9 @@
                 <ImageView
                     android:layout_width="60dp"
                     android:layout_height="60dp"
+                    android:layout_marginTop="5dp"
                     android:layout_marginLeft="20dp"
-                    android:src="@drawable/accCont" />
+                    android:src="@drawable/myInfoIcon" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -100,7 +101,7 @@
                     android:layout_width="60dp"
                     android:layout_height="70dp"
                     android:layout_marginLeft="20dp"
-                    android:src="@drawable/editPass" />
+                    android:src="@drawable/editInfoIcon" />
 
                 <LinearLayout
                     android:layout_width="204dp"

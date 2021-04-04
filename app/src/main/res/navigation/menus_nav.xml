@@ -25,4 +25,9 @@
         android:name="java.project.escalapp.maisFragment"
         android:label="fragment_mais"
         tools:layout="@layout/fragment_mais" />
+    <fragment
+        android:id="@+id/menuAdmFragment"
+        android:name="java.project.escalapp.menuAdmFragment"
+        android:label="fragment_menu_adm"
+        tools:layout="@layout/fragment_menu_adm" />
 </navigation>
